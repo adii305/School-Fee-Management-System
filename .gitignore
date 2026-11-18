@@ -1,0 +1,11 @@
+# Hide actual database credentials
+/config/db.php
+
+# Temporary files
+*.log
+*.tmp
+
+# Windows and editor files
+Thumbs.db
+.DS_Store
+.vscode/
